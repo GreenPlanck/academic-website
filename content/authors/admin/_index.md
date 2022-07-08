@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: 陆志宇
+name_pronunciation: Lu Zhi Yu
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,7 +15,7 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: PMO
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
